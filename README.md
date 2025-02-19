@@ -14,4 +14,5 @@ A simple SwiftUI Sign In screen using Design Tokens for styling.
 3. Run the app on iOS Simulator  
 
 ## Screenshots  
-![Simulator Screenshot - iPhone 16 Pro - 2025-02-19 at 15 27 01](https://github.com/user-attachments/assets/1561f6c8-2441-4c87-acea-2478a1116d8b)
+
+![screenshot](https://github.com/user-attachments/assets/221ffb47-d154-4eec-a404-584fc06fc356)
