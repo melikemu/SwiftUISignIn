@@ -15,4 +15,4 @@ A simple SwiftUI Sign In screen using Design Tokens for styling.
 
 ## Screenshots  
 
-![screenshot](https://github.com/user-attachments/assets/221ffb47-d154-4eec-a404-584fc06fc356)
+<img width="466" alt="screenshot" src="https://github.com/user-attachments/assets/2f2dd285-7edd-4651-855d-88faafdd13b5" />
