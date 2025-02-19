@@ -1,0 +1,37 @@
+{
+  "colors": {
+    "primary": "#007AFF",
+    "secondary": "#34C759",
+    "background": "#F5F5F7",
+    "text": "#000000",
+    "buttonText": "#FFFFFF"
+  },
+  "typography": {
+    "title": {
+      "fontSize": 24,
+      "fontWeight": "bold",
+      "fontFamily": "SF Pro Text"
+    },
+    "body": {
+      "fontSize": 16,
+      "fontWeight": "regular",
+      "fontFamily": "SF Pro Text"
+    },
+    "button": {
+      "fontSize": 18,
+      "fontWeight": "semibold",
+      "fontFamily": "SF Pro Text"
+    }
+  },
+  "spacing": {
+    "small": 8,
+    "medium": 16,
+    "large": 24
+  },
+  "borderRadius": {
+    "small": 4,
+    "medium": 8,
+    "large": 12
+  }
+}
+
